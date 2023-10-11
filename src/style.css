@@ -1,0 +1,47 @@
+h1 {
+  margin: 0;
+  padding-top: 20px;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.form-control {
+  width: 400px;
+  margin: 5px;
+}
+
+.button {
+  display: block;
+  margin: 0 auto;
+}
+
+.weather-stats {
+  font-size: 12px;
+  line-height: 1.5;
+  padding-top: 20px;
+}
+
+.temperature-emoji {
+  font-size: 60px;
+}
+
+.temperature {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.temperature-other {
+  padding-top: 20px;
+}
+
+.row {
+  font-size: 18px;
+  text-align: center;
+}
